@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="splash_screen_name">Splash screen</string>
+    <string name = "main_screen_name">Main screen</string>
+    <string name="splash_screen_tv_text">Splash screen</string>
+    <string name="main_screen_tv_text">Main screen</string>
+
+</resources>
